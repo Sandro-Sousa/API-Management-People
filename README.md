@@ -1,10 +1,10 @@
 
   
 <br />
-  <h3 align="center">Gerencia Cadastro de Pessoas ASP.NET Core API</h3>
+  <h3 align="center">Gerenciamento de Cadastro de Pessoas com ASP.NET Core API</h3>
 
   <p align="center">
-    API Rest Criado com .Net core usando princípio  (Domain Driven Design) e TDD
+    API Rest Criado com .Net core usando princípio  (Domain Driven Design), TDD e Arquitetura Limpa.
     <br />
   </p>
 </p>
