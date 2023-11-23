@@ -52,7 +52,7 @@ namespace TestProjectManagementPeople.Services
                     LastName = "Doe",
                     Email = "john.doe@example.com",
                     Phone = "1234567890",
-                    Address = "123 Main Street",
+                    Address = "1234 Main Street",
                     City = "TestCity",
                     State = "TS",
                     Country = "TestCountry",
