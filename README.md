@@ -20,3 +20,6 @@
 
 ### Execute o Script SQL:
 https://github.com/Sandro-Sousa/API-Management-People/blob/master/ScriptSQL/SQLQuery55.sql
+
+### Entre com a Suas Credencias de Banco de dados:
+https://github.com/Sandro-Sousa/API-Management-People/blob/master/WebAPIs/appsettings.json
