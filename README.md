@@ -1,7 +1,7 @@
 
   
 <br />
-  <h3 align="center">Template ASP.NET Core API</h3>
+  <h3 align="center">Cadastro de Pessoa Fisica e Juridica ASP.NET Core API</h3>
 
   <p align="center">
     API Rest Criado com .Net core usando princípio  (Domain Driven Design) e TDD
