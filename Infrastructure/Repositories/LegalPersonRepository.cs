@@ -15,6 +15,7 @@ namespace Repository.Repositories
     {
         private string? _connectionString;
 
+
         public LegalPersonRepository()
         {
             this._connectionString = Cross.AppSettings.GetConnectionString("Cadastro");
